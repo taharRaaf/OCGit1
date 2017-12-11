@@ -1,0 +1,3 @@
+Ce fichier est censé présenter le projet, ce projet consiste en une prise en main de git.
+Les premiers éléments de base doivent être maitrisé... 
+Git push, commit, clone, checkout, pull, add etc
